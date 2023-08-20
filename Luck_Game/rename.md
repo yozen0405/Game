@@ -20,5 +20,9 @@
 
 - [code](./code.py)
 
+遊玩截圖 :
+
+![image](https://github.com/yozen0405/Game/assets/71330526/9c51c6b8-d1e8-4162-9668-1f9789092ca2)
+
 
 
