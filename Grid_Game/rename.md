@@ -2,7 +2,7 @@
 
 ## 簡單介紹
 
-有一個 5 * 5 的 grid，玩家輪流選 grid 上的格子，每種格子有對應操作，在用完這 25 格後分數最接近 target number 者獲勝
+玩家輪流選 grid 上的格子，每種格子有對應操作，在用完全部的格子後分數最接近 target number 者獲勝
 
 ![image](https://github.com/yozen0405/Game/assets/71330526/77861171-a8b7-483e-8db2-e1d33b9db589)
 
