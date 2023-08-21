@@ -6,6 +6,11 @@
 
 ![image](https://github.com/yozen0405/Game/assets/71330526/77861171-a8b7-483e-8db2-e1d33b9db589)
 
+## file
+
+- [code](./code.py)
+
+- [學習歷程文件](./Grid_game.docx)
 
 ## 符號對應之操作
 
@@ -28,8 +33,4 @@
 | y | 從 -10~+10 中自訂一個數加到對手的分數 |
 | z | 從 -10~+10 中自訂一個數加到自己的分數, 或可以選擇從 -10~+10 中自訂一個數加到加到對手的分數 |
 
-## file
 
-- [code](./code.py)
-
-- [學習歷程文件](./Grid_game.docx)
